@@ -5,7 +5,7 @@
 The src attribute provides the name of the image file that should be inserted, and the alt attribute provides text that should be displayed if the image is not available. Both of these attributes are required in every img element.
 
 3. Do the same for the contact details but instead of adding the file using the image path, use the src attribute to look for the image available in the internet and use the following values:
-for email: https://raw.githubusercontent.com/milkylee/webdev/master/1stsem_23-24/activities/mail.png
+for email: https://raw.githubusercontent.com/milkylee/webdesign2526/master/1stsem_23-24/activities/mail.png
 for website: https://raw.githubusercontent.com/milkylee/webdev/master/1stsem_23-24/activities/world-wide-web.png
 4. Set the style attribute value to width: 20px and height: 20px
 5. Make an image link by adding the anchor element and assign the href value to https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=someone@example.com for the email image
