@@ -1,5 +1,5 @@
 ## Exercise 5 CSS formatting text
-1. 1. Copy [exercise5-css-formatting.html](https://github.com/milkylee/webdesign/blob/master/1stsem_2526/activities/exercise5-css-formatting.html) and paste in notepad save as exercise4-form-and-css-(your-name).html
+1. 1. Copy [exercise5-css-formatting.html](https://github.com/milkylee/webdesign2526/blob/master/1stsem_2526/activities/exercise5-css-formatting.html) and paste in notepad save as exercise4-form-and-css-(your-name).html
 2. We’re going to use an embedded style sheet for this exercise. Start by adding a style element with its required type attribute to the head of the document (remember, the only place a style element can go is in the head)
     body {
             font-family: verdana, sans-serif;
